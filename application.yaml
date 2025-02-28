@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/Mudassir-dev0ps/argo2
     targetRevision: master
-    path: app
+    path: manifests
   destination:
     server: https://kubernetes.default.svc
     namespace: default
