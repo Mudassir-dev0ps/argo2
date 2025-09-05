@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image:  msmengr/hello-world:v6
+        image:  msmengr/hello-world:v7
         ports:
         - containerPort: 5000
