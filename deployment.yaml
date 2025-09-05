@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: msmengr/hello-world:v6
+        image:  quay.io/koenig27_del_in/hello-world:v6
         ports:
         - containerPort: 5000
